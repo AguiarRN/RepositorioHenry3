@@ -1,2 +1,2 @@
-# RepositorioHenry2
+# RepositorioHenry
 Ejercicio 1
